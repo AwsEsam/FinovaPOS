@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <version>1.0.1</version>
-  <download>https://github.com/AwsEsam/FinovaPOS/releases/download/v1.0.1/FinovaPOS.exe</download>
+  <version>v1.0.2.0</version>
+  <download>https://github.com/AwsEsam/FinovaPOS/releases/download/v1.0.2.0/FinovaPOS.exe</download>
   <notes>إصلاح مشكلة التعديل على الفواتير</notes>
 </update>
