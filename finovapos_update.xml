@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
   <version>1.0.2.0</version>
-  <download>https://www.dropbox.com/scl/fi/qoxhkprrbual94zr0oz7b/FinovaPOS.exe?rlkey=f9mcy39r5e44s9cnq4ftx86pk&st=p057kp58&dl=1
-</download>
-  <notes>إصلاح مشكلة التعديل على الفواتير</notes>
+  <download>https://www.dropbox.com/scl/fi/qoxhkprrbual194zr0oz7b/FinovaPOS.exe?rlkey=f9mcy39r5e44s9cnq4ftx86pk&amp;st=p057kp58&amp;dl=1</download>
+  <notes>يصلح مشكلة التشغيل على الويندوز</notes>
 </update>
