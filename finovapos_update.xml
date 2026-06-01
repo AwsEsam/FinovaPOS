@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <version>1.0.2.1</version>
+  <version>1.0.3</version>
  <download>https://github.com/AwsEsam/FinovaPOS/releases/download/1.0.2/FinovaPOS.exe</download>
     <notes>إصلاحات عامة وتحديثات شاملة لنظام المشتريات والمبيعات</notes>
 </update>
