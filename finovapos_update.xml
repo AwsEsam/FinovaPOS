@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-  <version>1.0.3.0</version>
+  <version>1.0.3</version>
   <url>https://github.com/AwsEsam/FinovaPOS/releases/download/1.0.3/FinovaSetup.msi</url>
   <changelog>https://github.com/AwsEsam/FinovaPOS/releases/tag/1.0.2.1</changelog>
   <mandatory>true</mandatory>
